@@ -1,0 +1,6 @@
+Datos Registrados
+
+=================
+Nombre y Apellido....: Joe Castillo
+Genero...............: Masculino
+Estado...............: Mayor de edad
